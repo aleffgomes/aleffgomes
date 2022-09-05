@@ -10,10 +10,8 @@
 + 📚 Good knowledges in HTML, CSS, PHP, CodeIgniter 4, Jquery, SQL, Ajax, C++, Java, Git, Bootstrap, Javascript, API's, Photoshop and Ilustrator.
 + 📚 Avanced knowledges in Microsoft Excel.
 + 👾 Experience in administrative routines, team leadership, indicators, team planning and standardization of processes.<br><br>
-
 ##
-
-<div align="center">
+<h3> Languages and Tools </h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" **alt="codeigniter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
@@ -28,7 +26,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </div>
+<hr>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Alef%20Gomes&theme=dark&hide_border=verdadeiro"/></a>
+
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleffgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&hide=JavaScript,HTML,CSS,PHP"/> -->
+  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&"/>
 </div>
   
