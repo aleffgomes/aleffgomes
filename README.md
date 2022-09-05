@@ -1,4 +1,16 @@
 <h1> Welcome to Alef Gomes! 🎉</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    <div id="badges">
+  <a href="https://www.linkedin.com/in/alef-gomes-8b2950163" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/alefpcj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+</div>
+
 <br>
 <h3> Alef Gomes 📌 </h3>
 <hr>
@@ -11,7 +23,7 @@
 + 📚 Avanced knowledges in Microsoft Excel.
 + 👾 Experience in administrative routines, team leadership, indicators, team planning and standardization of processes.<br><br>
 ##
-<h3> Languages and Tools </h3>
+<h3> Languages and Tools 🛠️ </h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" **alt="codeigniter" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
@@ -27,11 +39,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
 </div>
 <hr>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Alef%20Gomes&theme=dark&hide_border=verdadeiro"/></a>
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleffgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&"/>
+<h3> Stats 🔥</h3>
+<div align="start">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aleffgomes&theme=dark&hide_border=verdadeiro"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&layout=compact&theme=dark"/>
 </div>
   
