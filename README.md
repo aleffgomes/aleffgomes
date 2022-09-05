@@ -1,13 +1,14 @@
 <h1> Welcome to Alef Gomes! 🎉</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    <div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/alef-gomes-8b2950163" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/alefpcj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=aleffgomes&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
