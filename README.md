@@ -7,7 +7,7 @@
 + 🌎 Brazilian <br>
 + 🏫 Analysis and systems development student on Unicesumar <br>
 + 💻 Currently working as a FullStack Developer at Transpedrosa S.A., building own projects for the company's uses <br>
-+ 📚 Good knowledges in HTML, CSS, PHP, CodeIgniter 4, Jquery, SQL, Ajax, C++, Git, Bootstrap, Javascript, API's, Photoshop and Ilustrator.
++ 📚 Good knowledges in HTML, CSS, PHP, CodeIgniter 4, Jquery, SQL, Ajax, C++, Java, Git, Bootstrap, Javascript, API's, Photoshop and Ilustrator.
 + 📚 Avanced knowledges in Microsoft Excel.
 + 👾 Experience in administrative routines, team leadership, indicators, team planning and standardization of processes.<br><br>
 
