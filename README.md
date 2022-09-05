@@ -6,8 +6,8 @@
 + 🎈 24 years
 + 🌎 Brazilian <br>
 + 🏫 Analysis and systems development student on Unicesumar <br>
-+ 💻 Actually working with Analist of tecnology and inovation to Transpedrosa S.A., building own projects for the company's uses <br>
-+ 📚 Good knowledges in HTML, CSS, PHP, Jquery, SQL, Ajax, C++, Git, Bootstrap, Javascript, Photoshop and Ilustrator.
++ 💻 Currently working as a FullStack Developer at Transpedrosa S.A., building own projects for the company's uses <br>
++ 📚 Good knowledges in HTML, CSS, PHP, CodeIgniter 4, Jquery, SQL, Ajax, C++, Git, Bootstrap, Javascript, API's, Photoshop and Ilustrator.
 + 📚 Avanced knowledges in Microsoft Excel.
 + 👾 Experience in administrative routines, team leadership, indicators, team planning and standardization of processes.<br><br>
 
