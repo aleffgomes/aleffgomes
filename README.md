@@ -15,7 +15,7 @@
 <h3> Alef Gomes 📌 </h3>
 <hr>
 
-+ 🎈 25 years
++ 🎈 26 years
 + 🌎 Brazilian <br>
 + 🏫 Analysis and systems development student on Unicesumar <br>
 + 💻 Currently working as a FullStack Developer at Transpedrosa S.A., building own projects for the company's uses <br>
