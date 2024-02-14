@@ -1,5 +1,7 @@
 <h1> Welcome to Alef Gomes! 🎉</h1>
 <div id="header" align="center">
+<h3> Alef Gomes </h3>
+<hr>
 <div id="badges">
   <a href="https://www.linkedin.com/in/alef-gomes-8b2950163" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -10,17 +12,14 @@
 </div>
 </div>
 
-<br>
-<h3> Alef Gomes 📌 </h3>
-<hr>
-
 + 🎈 26 years
 + 🌎 Brazilian <br>
-+ 🏫 Analysis and systems development student on Unicesumar <br>
-+ 💻 Currently working as a FullStack Developer at Transpedrosa S.A., building own projects for the company's uses <br>
-+ 📚 Good knowledges in HTML, CSS, PHP, CodeIgniter 4, Jquery, SQL, Ajax, C++, Java, Git, Bootstrap, Javascript, API's, Photoshop and Ilustrator.
-+ 📚 Avanced knowledges in Microsoft Excel.
-+ 👾 Experience in administrative routines, team leadership, indicators, team planning and standardization of processes.<br><br>
++ 🏫 I have a degree in systems analysis and development <br>
++ 💻 Currently working as a TechLead at Transpedrosa S.A., building projects for the company's <br>
++ 📚 Good knowledges PHP with Laravel and Codeigniter 4, ES6 (JS) modular with Webpack, Babel and NPM. Vue.js, HTML5 and CSS3 with SASS. Databases MySQL, Redis and MongoDB, Webworkers, Websocket.
++ 📚 Experience with Apache and Nginx, automated tasks with Cron, Api's Rest, RestFul and SOAP API, JWT and OAuth, Unitary tests, MVC and OOP (SOLID), Microservices, Docker, Git/GitHub, Linux (Ubuntu) and WSL2, Excel and PowerBI, Agile Methodologies (Scrum).
++ 📚 Basic knowledge of Java, Python, and Node.js.
++ 👾 Experience in administrative routines, team leadership, KPI's, team planning and standardization of processes.<br><br>
 ##
 <h3> Languages and Tools 🛠️ </h3>
 <div>
