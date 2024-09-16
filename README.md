@@ -26,9 +26,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aleffgomes&theme=vue-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=aleffgomes&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleffgomes&amp;theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleffgomes&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aleffgomes&icon=0&color=1)](https://visitcount.itsvg.in)
