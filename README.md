@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎈 26 years<br>🌎 Brazilian <br>🏫 I have a degree in systems analysis and development<br>💻 Currently working as a TechLead at Transpedrosa S.A., building projects for the company's<br>👯 I’m looking to collaborate on **Transpedrosatec** (private project)<br>👾 Experience in administrative routines, team leadership, KPI's, team planning and standardization of processes.<br>📫 How to reach me **alefpcj@gmail.com**
+🎈 27 years<br>🌎 Brazilian <br>🏫 I have a degree in systems analysis and development<br>💻 Currently working as a TechLead at Transpedrosa S.A., building projects for the company's<br>👯 I’m looking to collaborate on **Transpedrosatec** (private project)<br>👾 Experience in administrative routines, team leadership, KPI's, team planning and standardization of processes.<br>📫 How to reach me **alefpcj@gmail.com**
 
 
 ## 🌐 Socials:
